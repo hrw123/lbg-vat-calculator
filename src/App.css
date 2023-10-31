@@ -11,3 +11,8 @@
 .header{
   padding: 10px;
 }
+
+.colour-border{
+  border: 3px solid blue;
+  padding: 10px;
+}
